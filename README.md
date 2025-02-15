@@ -2,6 +2,8 @@
 Rocket Propulsion
 
 1. Rocket propulsion lecture
+[Lecture](https://www.overleaf.com/project/67b106ba01a59457c8377fd0)
+
 2. Rocket propulsion exercises
 
 Below links for the exercises that has been provided during the winter 2024/2025

@@ -1,5 +1,8 @@
 # Rocket_Propulsion_2024
-Rocket Propulsion exercises
+Rocket Propulsion
+
+1. Rocket propulsion lecture
+2. Rocket propulsion exercises
 
 Below links for the exercises that has been provided during the winter 2024/2025
 
